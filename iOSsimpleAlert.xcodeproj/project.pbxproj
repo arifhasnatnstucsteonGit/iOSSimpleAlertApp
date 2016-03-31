@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		7EBEA8231CAB72A900350A97 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EBEA8221CAB72A900350A97 /* AppDelegate.swift */; };
 		7EBEA8251CAB72A900350A97 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EBEA8241CAB72A900350A97 /* ViewController.swift */; };
-		7EBEA8281CAB72A900350A97 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EBEA8261CAB72A900350A97 /* Main.storyboard */; };
+		7EBEA8281CAB72A900350A97 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EBEA8261CAB72A900350A97 /* Main.storyboard */; settings = {ASSET_TAGS = ("show Alerrt", ); }; };
 		7EBEA82A1CAB72A900350A97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EBEA8291CAB72A900350A97 /* Assets.xcassets */; };
 		7EBEA82D1CAB72A900350A97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EBEA82B1CAB72A900350A97 /* LaunchScreen.storyboard */; };
 		7EBEA8381CAB72AA00350A97 /* iOSsimpleAlertTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EBEA8371CAB72AA00350A97 /* iOSsimpleAlertTests.swift */; };
@@ -187,6 +187,9 @@
 		7EBEA8171CAB72A900350A97 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					"show Alerrt",
+				);
 				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0710;
 				ORGANIZATIONNAME = "Arif Hasnat";
